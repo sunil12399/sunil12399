@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/@baheliasunil99/understanding-overfitting-regularization-in-logistic-regression-2d2361efe7ba
+[Understanding Overfitting and Regularization in Logistic Regression](https://medium.com/@baheliasunil99/understanding-overfitting-regularization-in-logistic-regression-2d2361efe7ba)
 <!-- BLOG-POST-LIST:END -->
 <br>
 <h3 align="left">Languages and Tools:</h3>
