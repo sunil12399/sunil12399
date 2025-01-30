@@ -3,13 +3,19 @@
 <br>
 <p>
   
-  Highly motivated and results-driven Data Scientist with a Master's degree in Big Data Analytics and Data Science and a Bachelor's degree in Information Technology. Possesses hands-on experience in data analysis, modeling, and data visualization, gained through two data scientist internships. Skilled in Python, SQL, Machine Learning, and Deep Learning techniques, with a passion for developing innovative solutions to complex problems. Demonstrates strong communication and interpersonal skills, a proactive and flexible approach, and a commitment to delivering high-quality results.
+  Highly motivated and passionate Data Scientist with 2 years of extensive experience across diverse sectors including market research, digital analysis, and manufacturing. Demonstrated expertise in Statistical Analyses, Predictive Modeling, Data Visualization, and end-to-end ML projects. 
+  
+  A proactive problem-solver who thrives on delivering high-quality results and tackling challenging complex problems  with a Master's degree in Big Data Analytics and Data Science and a Bachelor's degree in Information Technology. Skilled in Python, SQL, Machine Learning, and Deep Learning techniques, with a passion for developing innovative solutions to complex problems. Demonstrates strong communication and interpersonal skills, and a commitment to delivering high-quality results.
 
   </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil12399&label=Profile%20views&color=0e75b6&style=flat" alt="sunil12399" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning with Finance, SAS aand R**
+- 🌱 Looking for **Data Scientist** and **Data Analyst** Roles.
+- 🌱 I love to code, work on challenging problems, more difficult the better.
+- 🌱 I like to explore new learning avenues, constantly looking out for new techniques and tools, and recently learned polars for faster processing. Learning rust for building plugins to be used in Python for scaling the processing speeds.
+- 🌱 I’m currently learning **Machine Learning with Finance, Azure, SAS, and R**.
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
